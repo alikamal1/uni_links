@@ -10,7 +10,7 @@ dependencies:
   flutter: 
     sdk: flutter
   uni_links2: 
-    path: ../uni_links/uni_links
+    path: ../uni_links
 dev_dependencies: 
   flutter_test: 
     sdk: flutter
